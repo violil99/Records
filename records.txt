@@ -1,9 +1,4 @@
 Employee-ID, SIN, Name, Department, Address, Salary
-
-Certainly! Here are the records with the commas removed from the salary numbers:
-
-mathematica
-Copy code
 JMORG0456, 987654321, John Morgan, IT, 567 Tech Avenue, 75000
 KSMITH0123, 876543210, Karen Smith, Marketing, 789 Ad Street, 60000
 RJOHNS0789, 654321789, Robert Johnson, Sales, 101 Sales Lane, 70000
@@ -24,6 +19,3 @@ WROSE0567, 654321789, William Rose, Operations, 777 Operations Avenue, 66000
 SSAND0987, 765432109, Susan Sanders, HR, 888 HR Lane, 47000
 PSMIT0654, 234567890, Paul Smith, IT, 123 Tech Court, 73000
 DCOOP0123, 543210987, Donna Cooper, Marketing, 456 Ad Street, 59000
-
-
-
